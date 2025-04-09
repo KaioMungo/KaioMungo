@@ -92,7 +92,7 @@ My name is Kaio Nogueira Mungo, i´m 18 years old and i was born in Sâo Paulo. 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KaioMungo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -100,7 +100,7 @@ My name is Kaio Nogueira Mungo, i´m 18 years old and i was born in Sâo Paulo. 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMungo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
