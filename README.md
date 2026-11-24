@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="https://www.tumblr.com/pxlflx/162846164036/mega-spider-man"
+    src="https://www.deviantart.com/kidkinobi/art/Spider-Man-Idle-Animation-Pixel-Art-1209148643"
     width="350"
     alt="Spider-Man Pixel Art Animation"
   />
