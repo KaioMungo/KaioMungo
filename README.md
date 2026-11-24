@@ -26,8 +26,8 @@ class KaioMungo:
         self.name = "Kaio Nogueira Mungo"
         self.location = "São Paulo, Brazil"
         self.education = [
-            "Systems Analysis and Development - Graduated",
-            "Information Systems - In Progress"
+            "B.Sc. in Information Systems - In Progress",
+            "Systems Analysis and Development - Graduated"
         ]
         self.current_role = "Young Apprentice at Vivo"
         self.interests = [
@@ -43,13 +43,11 @@ class KaioMungo:
 
 I'm passionate about technology and how it can transform ideas into practical solutions.
 
-I have a degree in Systems Analysis and Development from Faculdade Impacta Tecnologia and I'm currently pursuing a Bachelor's degree in Information Systems.
+I graduated in Systems Analysis and Development from Faculdade Impacta Tecnologia and I'm currently pursuing a Bachelor's degree in Information Systems at the same institution.
 
-At Vivo, I develop experience in operational analysis, data monitoring, reports and process support, strengthening my analytical and problem-solving skills.
+At Vivo, I gain experience in operational analysis, data monitoring, reports and process support, strengthening my analytical and problem-solving skills.
 
 I enjoy exploring different areas of technology, learning new tools and building projects that challenge me to grow.
-
----
 
 ## 🕸️ Tech Stack
 
