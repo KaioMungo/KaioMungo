@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="https://www.deviantart.com/kidkinobi/art/Spider-Man-Idle-Animation-Pixel-Art-1209148643"
+    src="https://www.pinterest.com/pin/popsesivo--699395017156177416/"
     width="350"
     alt="Spider-Man Pixel Art Animation"
   />
