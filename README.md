@@ -7,13 +7,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:8B0000,100:E62429&height=200&section=header&text=KAIO%20MUNGO&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=With%20great%20code%20comes%20great%20responsibility.&descSize=15&descAlignY=60&animation=fadeIn" />
 
-<div align="center">
   <img
     src="https://www.pinterest.com/pin/popsesivo--699395017156177416/"
     width="350"
-    alt="Spider-Man Pixel Art Animation"
-  />
-</div>
+    alt="Spider-Man Pixel Art Animation"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=650&lines=Systems+Information+Student;Data+%26+Technology+Enthusiast;Developer+in+Constant+Evolution;Building+Ideas+Into+Reality..." alt="Typing SVG" />
 
